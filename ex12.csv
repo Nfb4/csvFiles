@@ -1,3 +1,4 @@
 shape,height,width,cx,cy,rx,ry,color
 rect,100,200,0,0,0,0,pink
 circle,0,0,50,250,50,0,black
+ellipse,0,0,250,50,150,50,black
