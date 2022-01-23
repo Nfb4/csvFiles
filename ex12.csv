@@ -1,5 +1,5 @@
-shape,height,width,cx,cy,rx,ry,color
-rect,100,200,,,,,pink
-circle,,,50,250,50,0,black
-ellipse,,,250,50,150,50,black
-line,,,100,50,200,150,blue
+shape,height,width,cx,cy,rx,ry,fill,stroke
+rect,100,200,,,,,pink,
+circle,,,50,250,50,0,black,
+ellipse,,,250,50,150,50,black,
+line,,,100,50,200,150,,blue
